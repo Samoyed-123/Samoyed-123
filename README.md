@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 🌌
+- ## ⛵ Something about me
+     - 🪐 Aerospace Manufacturing Engineering, HIT
+     - ⭐ Rmer(2022/2023)
+     - 🌳 Want to be a (good) Mechanical Engineer
+     - 🪺 Trying to control (myself and) Robots
+     - ⚡ ......
+       
+ - ## 🌄 My Interests
+     - 🌷 Robot designing and manufacturing
+     - 🍒 Control theroy for robotics engineer
+     - 🎋 Autonomous mission planning for robots
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Samoyed-123&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
