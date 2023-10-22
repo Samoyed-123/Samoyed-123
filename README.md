@@ -25,7 +25,6 @@ Here are some ideas to get you started:
  - ## 🌄 My Interests
      - 🌷 Robot designing and manufacturing
      - 🍒 Control theroy for robotics engineer
-     - 🎋 Autonomous mission planning for robots
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Samoyed-123&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
